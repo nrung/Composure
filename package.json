@@ -1,0 +1,7 @@
+{
+  "name": "NodeMail",
+  "version": "0.0.1",
+  "dependencies": {
+    "alexa-sdk": "latest"
+  }
+}
